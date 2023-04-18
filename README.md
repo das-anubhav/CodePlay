@@ -1,8 +1,4 @@
 
-<div align="center">
-    <img src="images/aviator/logo.png" width="75%" />
-</div>
-
 # The Game 🎮
 
 **Do you like challenges? Play a `coding Game` that test your `skills` in creating algorithms. The proposed challenges have different difficulty levels, which make the game suitable for both beginner and experienced programmers.**
