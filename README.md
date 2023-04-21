@@ -6,7 +6,6 @@
 **What are you waiting for? Test yourself and challenge friends and colleagues 😎.**
 
 - **[Online Game](https://paol-imi.github.io/the-aviator/)**
-- **[Tutorial](https://paol-imi.github.io/the-aviator/tutorial/#/)**
 
 <div align="center">
     <img src="images/screens/worlds.gif" width="49.5%" /><img width="1%" /><img src="images/screens/game.gif" width="49.5%" />
